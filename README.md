@@ -20,6 +20,7 @@ Hey! I am João Harbs, I'm 23 yo Back-end Developer with 6 years of experience b
 - I like to play games, but, lately it hasn't been quite like that, lol.
 - I'm learning English and German.
 - Did I say, programming?
+- I'm very passionate about history.
 
 ### Contact 📬
 [![INSTAGRAM](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram)](https://www.instagram.com/harbsj)
