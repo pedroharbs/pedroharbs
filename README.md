@@ -1,15 +1,10 @@
-## 👨‍💻 Hi there, I'm João Harbs
-💻 ┇I'm a Software Engineer from <b><img src="https://cdn-icons-png.flaticon.com/512/330/330430.png" width="15"/>Brasil</b>, based at <b><img src="https://cdn-icons-png.flaticon.com/512/555/555668.png" width="15"/>Italy</b>;<br />
-<img src="https://cdn-icons-png.flaticon.com/512/1688/1688400.png" width="20"/> ┇Currently working as **Software Engineer** at Mutuiamo;<br />
-🛠 ┇Few techs that I enjoy working in are NodeJS, Laravel, ReactJS, React Native, Docker and AWS;<br />
-📮 ┇Reach me out: [Linkedin](https://www.linkedin.com/in/joaopedroharbs/), [Email](mailto:harbspj@gmail.com);<br />
-😍 ┇Passionate about technology, and very curious to know how and why things work in such a way.;<br />
-🎯 ┇Looking to contribute and learn more everyday;<br />
+# Pedro Harbs
 
-> “Be who you needed when you were younger!”
-― Some Wise Guy
+Senior Software Engineer at [Zooplus GmbH](https://www.zooplus.at/) based in Wien, Österreich 🇦🇹.
 
----
+[![Linkedin Badge](https://img.shields.io/badge/-Pedro%20Harbs-059669?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaopedroharbs)]([https://www.linkedin.com/in/joaopedroharbs](https://www.linkedin.com/in/joaopedroharbs)) 
+[![Gmail Badge](https://img.shields.io/badge/-harbspj@gmail.com-059669?style=flat-square&logo=Gmail&logoColor=white&link=mailto:harbspj@gmail.com)](mailto:harbspj@gmail.com)
 
-[![Updated Badge](https://badges.pufler.dev/updated/devbarba/devbarba)](https://badges.pufler.dev)
+Enthusiast of technology, cyber security and passionate about to reach the **"why"** behind the things.
 
+"Eris semper in mundo gloriosa... Adria vivat, et regnet in pace."
